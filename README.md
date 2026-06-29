@@ -3,11 +3,11 @@
 **The most comprehensive, opinionated LangChain + LangGraph learning resource.**
 
 
-""Python" (https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)" (https://www.python.org/)
-""LangChain" (https://img.shields.io/badge/LangChain-Latest-1C3C3C)" (https://www.langchain.com/)
-""LangGraph" (https://img.shields.io/badge/LangGraph-Latest-4CAF50)" (https://www.langchain.com/langgraph)
-""License" (https://img.shields.io/badge/License-MIT-blue.svg)" (LICENSE)
-
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Latest-4CAF50?style=for-the-badge)](https://www.langchain.com/langgraph)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 ---
 
