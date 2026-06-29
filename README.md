@@ -1,12 +1,17 @@
-# 🦜🔗 LangChain & LangGraph Master Course
+# 🔗 LangChain & LangGraph Master Course
 
 **The most comprehensive, opinionated LangChain + LangGraph learning resource.**
 
-From absolute zero to production-ready AI Engineer.
+
+""Python" (https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)" (https://www.python.org/)
+""LangChain" (https://img.shields.io/badge/LangChain-Latest-1C3C3C)" (https://www.langchain.com/)
+""LangGraph" (https://img.shields.io/badge/LangGraph-Latest-4CAF50)" (https://www.langchain.com/langgraph)
+""License" (https://img.shields.io/badge/License-MIT-blue.svg)" (LICENSE)
+
 
 ---
 
-## 🎯 What You'll Learn
+## What You'll Learn
 
 | Phase | Topics |
 |-------|--------|
@@ -45,12 +50,12 @@ Each module contains:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone / download this repo
-git clone <repo-url>
-cd langchain-mastercourse
+git clone https://github.com/Jai-2077/Langchain-basics.git
+
 
 # 2. Create virtual environment
 python -m venv venv
@@ -70,40 +75,38 @@ jupyter notebook notebook.ipynb
 
 ---
 
-## 📚 Learning Path
+## Modules
 
-### Week 1: Foundations (Modules 01–08)
+### Foundations (Modules 01–08)
 - Python patterns used in LangChain
 - How LLMs work
 - Messages, prompts, LCEL chains
 - Output parsers
 
-### Week 2: Data & RAG (Modules 09–14)
+### Data & RAG (Modules 09–14)
 - Document loaders
 - Text splitting strategies
 - Embeddings and vector stores
 - Building RAG pipelines
 
-### Week 3: Intelligence (Modules 15–25)
+### Intelligence (Modules 15–25)
 - Memory and chat history
 - Tools and tool calling
 - Agents
 - Structured output
 
-### Week 4: LangGraph (Modules 31–43)
+### LangGraph (Modules 31–43)
 - Graph fundamentals
 - State management
 - Multi-agent systems
 - Production patterns
 
-### Week 5: Production (Modules 26–30, 44–45)
+### Production (Modules 26–30, 44–45)
 - Async, testing, deployment
 - Guardrails, monitoring
 - Capstone projects
 
 ---
-
-## 🎓 Teaching Philosophy
 
 Every concept is explained with:
 1. **WHAT** it is (plain English first)
@@ -115,19 +118,16 @@ Every concept is explained with:
 7. **Interview questions**
 8. **Production usage**
 
-We never jump directly to code.
-
 ---
 
-## 🔑 Prerequisites
+## Prerequisites
 
 - Python basics (variables, functions, loops, classes)
 - Basic command line usage
-- That's it — everything else is taught here
 
 ---
 
-## 📦 Key Dependencies
+## Key Dependencies
 
 | Package | Purpose |
 |---------|---------|
@@ -140,11 +140,9 @@ We never jump directly to code.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Found an error? Have a better explanation?
 Open an issue or PR.
 
----
 
-*Built with ❤️ for AI Engineers who want to understand, not just copy-paste.*
